@@ -8,7 +8,7 @@
 
 #### Message Execution
 
-From the `examples` directory:
+From the `hello-world` directory:
 
 Configure the project:
 
@@ -19,11 +19,11 @@ Configure the project:
 Run the server:
 
 ```bash
-./build/install/examples/bin/hello-world-server
+./build/install/hello-world/bin/hello-world-server
 ```
 
 From another terminal window, run the client:
 
 ```bash
-./build/install/examples/bin/hello-world-client
+./build/install/hello-world/bin/hello-world-client
 ```
