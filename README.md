@@ -8,7 +8,7 @@
 
 #### Hello World Execution
 
-From the `examples` directory:
+From the `hello-world` directory:
 
 Configure the project:
 
