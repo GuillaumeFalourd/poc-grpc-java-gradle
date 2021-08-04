@@ -1,4 +1,4 @@
-# gRPC (Google Remote Procedure Call) Java
+# gRPC (Google Remote Procedure Call) Java with GRADLE
 
 [This code's has been inspired from from the grpc.io site.](https://grpc.io/docs/languages/java/quickstart/)
 
