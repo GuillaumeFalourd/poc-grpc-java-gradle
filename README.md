@@ -30,8 +30,8 @@ From another terminal window, run the client:
 
 ## Usage
 
-![gradlew installDist](https://user-images.githubusercontent.com/22433243/125847542-75f54cdd-33e6-4fde-b1d9-88ab0400206f.png)
+![gradlew installDist](https://user-images.githubusercontent.com/22433243/128194922-170ae699-9fb1-4f94-8f67-b254ba5e7050.png)
 
-![hello-world-server](https://user-images.githubusercontent.com/22433243/125847750-61683da3-ed06-4f52-95a7-1f13714823bb.png)
+![hello-world-server](https://user-images.githubusercontent.com/22433243/128194973-7b4035f0-2f51-4ad2-8a67-2035f7286eb0.png)
 
-![hello-world-client](https://user-images.githubusercontent.com/22433243/125847563-aad2580e-f70b-4ebf-8c8a-111c5dc9db7f.png)
+![hello-world-client](https://user-images.githubusercontent.com/22433243/128195020-217deeab-4bc7-4051-81aa-4fe76867aff1.png)
